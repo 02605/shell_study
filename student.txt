@@ -1,0 +1,6 @@
+name	age	gender
+rx/	22	m
+lc	23	f
+ch	25	f
+ws	24	m
+ws	24	m
